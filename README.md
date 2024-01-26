@@ -1,7 +1,13 @@
 This project demonstrates a producer-consumer management system using gRPC, allowing interaction between producers and consumers.
 
-#Database set up
+
+
+#Database set up:
+
+
 Database name : grpc
+
+
 -- Create the 'users' table
 CREATE TABLE users (
   username VARCHAR(255),
